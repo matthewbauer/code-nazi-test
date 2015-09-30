@@ -1,0 +1,4 @@
+// some bad js
+
+;;df;;;
+
