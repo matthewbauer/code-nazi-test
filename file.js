@@ -1,4 +1,4 @@
 // some bad js
 
-;;df;;;
+;;df;;
 
