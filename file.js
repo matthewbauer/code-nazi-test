@@ -2,3 +2,8 @@
 
 ;;df;;;
 
+function a() {
+  // some helpful additions.
+}
+
+a()
